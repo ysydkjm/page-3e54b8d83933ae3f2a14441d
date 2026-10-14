@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-84b98a8ab4.tiandiguanai.cn/sitemap.xml
